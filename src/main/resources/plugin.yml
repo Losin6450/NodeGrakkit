@@ -1,0 +1,4 @@
+name: 'Grakkit-Node'
+version: '1.0.0'
+main: 'me.losin6450.spigot.Grakkit'
+api-version: '1.16'
